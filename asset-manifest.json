@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Crud-Redux-toolkit/static/js/main.ed3dbf63.js",
+    "static/js/787.48044ec9.chunk.js": "/Crud-Redux-toolkit/static/js/787.48044ec9.chunk.js",
+    "static/media/userEmpty.svg": "/Crud-Redux-toolkit/static/media/userEmpty.6406610906b960df7cddb2abb4cbedf9.svg",
+    "index.html": "/Crud-Redux-toolkit/index.html",
+    "main.ed3dbf63.js.map": "/Crud-Redux-toolkit/static/js/main.ed3dbf63.js.map",
+    "787.48044ec9.chunk.js.map": "/Crud-Redux-toolkit/static/js/787.48044ec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ed3dbf63.js"
+  ]
+}
